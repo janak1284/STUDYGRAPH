@@ -1,1 +1,19 @@
-docs/
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Docs (restoring if needed, but original was docs/)
+docs/ 
